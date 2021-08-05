@@ -1756,8 +1756,8 @@ dependencies = [
 
 [[package]]
 name = "milli"
-version = "0.8.1"
-source = "git+https://github.com/meilisearch/milli.git?tag=v0.8.1#1290edd58a50d368106674cca28775b75e7ef183"
+version = "0.9.0"
+source = "git+https://github.com/meilisearch/milli.git?tag=v0.9.0#2102e0da6b046f252b75b2bb5a9fd34a5954ac8b"
 dependencies = [
  "bstr",
  "byteorder",
@@ -2842,9 +2842,9 @@ dependencies = [
 
 [[package]]
 name = "siphasher"
-version = "0.3.5"
+version = "0.3.6"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "cbce6d4507c7e4a3962091436e56e95290cb71fa302d0d270e32130b75fbff27"
+checksum = "729a25c17d72b06c68cb47955d44fda88ad2d3e7d77e025663fdd69b93dd71a1"
 
 [[package]]
 name = "slab"
